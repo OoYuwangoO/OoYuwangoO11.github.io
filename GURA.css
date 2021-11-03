@@ -22,3 +22,16 @@ img {
 #img-master{
     border: 10px solid lightblue;
 }
+
+.relative{
+    margin-left: 35px;
+    background: royalblue;
+    width: 500px;
+    height: 500px;
+}
+
+.absolute{
+    background: steelblue;
+    width: 100px;
+    height: 100px;
+}
