@@ -1,0 +1,24 @@
+*{
+/*
+margin: 0;
+
+padding: 0;
+
+border:10px solid royalblue;
+
+*/
+    list-style: none;
+    box-sizing: border-box;
+}
+
+img {
+    height: 500px;
+    width: 500px;
+}
+
+.img-start {
+    border: 10px solid lightskyblue;
+}
+#img-master{
+    border: 10px solid lightblue;
+}
